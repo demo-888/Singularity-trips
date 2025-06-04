@@ -44,6 +44,6 @@ Singularity-trips 是一个基于 Unreal Engine5 开发的战术射击游戏 Dem
 如果你有任何问题、建议或想要了解更多关于项目的信息，请通过以下方式联系我们：
 
 - GitHub 项目仓库：[https://github.com/demo-888](https://github.com/demo-888){target="_blank"}
-- 电子邮件：[your-email@example.com](mailto:your-email@example.com)
+- 电子邮件：[403883397@qq.com](mailto:your-email@example.com)
 
 我们期待与更多热爱游戏的开发者一起，将 Singularity-trips 打造成一款优秀的战术射击游戏！
